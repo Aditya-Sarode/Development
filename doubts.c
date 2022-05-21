@@ -21,7 +21,7 @@ void Pattern(int iRow , int iCol)
 				{
 					printf("# ");
 				}
-				else
+				else	//else
 				{
 					printf("* ");
 				}
